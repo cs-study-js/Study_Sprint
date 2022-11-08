@@ -16,3 +16,6 @@
 생각(하고 싶은)한 프로젝트 기술 스택 : spring-boot 심화 , JPA 
 
 개발 기한 : 2M
+
+
+![zookeepers_ERD](https://user-images.githubusercontent.com/46197893/200547793-27b5ec80-0c73-46d7-b69e-048f0db05bab.png)
