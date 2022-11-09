@@ -1,1 +1,1 @@
-![zookeepers_ERD](https://user-images.githubusercontent.com/46197893/200744924-327f2367-f966-45b6-aa53-6b4a3e7eae84.png)
+![zookeepers_ERD](https://user-images.githubusercontent.com/46197893/200774741-208811ed-ac3a-4c83-bda3-9210d9bfaef6.png)
