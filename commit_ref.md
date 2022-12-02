@@ -25,9 +25,10 @@
 - 작업에 따른 커밋 유형을 구분하여 작성 
 - 해당 프로젝트에서 사용할 type의 종류는 아래와 같다.
   ```
-  feature dev : 기능 개발 
-  feature del : 신규 개발 기능 삭제 
-  feature mod : 신규 개발 기능 수정 
+  feat : 아래 3가지의 개발 내용을 포함
+    - feature dev : 기능 개발 
+    - feature del : 신규 개발 기능 삭제 
+    - feature mod : 신규 개발 기능 수정 
   fix : 파일 및 오류 수정
   cicd : CI/CD 관련 설정 수정
   docs : 문서 등록 및 수정 
