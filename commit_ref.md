@@ -9,9 +9,11 @@
 ### Commit Msg
 ```
 [Title] 
+[Issue]
 [Type 명] : Type 내용
 
 [Body] : 수정 내용요약 
+
 
 [Resolve] : 해결 내용 작성
 [See Also] : 참고 사항 및 기타
