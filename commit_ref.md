@@ -32,6 +32,7 @@
     - feature del : 신규 개발 기능 삭제 
     - feature mod : 신규 개발 기능 수정 
   fix : 파일 및 오류 수정
+  chore : 설정 파일 변경
   cicd : CI/CD 관련 설정 수정
   docs : 문서 등록 및 수정 
   style : 코드 스타일(css 포함) 및 포멧 수정
